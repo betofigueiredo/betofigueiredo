@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**betofigueiredo/betofigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Front-end Engineer at Conaz/Ambar.
 
-Here are some ideas to get you started:
+#### Side projects I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[@Drinquepedia](https://github.com/betofigueiredo/Drinquepedia) - Things go better with a cocktail<br />
+[@Oaktabs](https://github.com/betofigueiredo/oaktabs) - Project to create online guitar tabs
+
+#### Personal stuff
+
+I love sports (rock climbing 🧗 / surfing 🏄) and literature 📚.
+
+#### Find me elsewhere
+
+📸 [Instagram](https://www.instagram.com/_betofigueiredo/)<br />
+💼 [LinkedIn](https://www.linkedin.com/in/betof/)<br />
+📚 [Goodreads](https://www.goodreads.com/betofigueiredo)
