@@ -4,8 +4,8 @@ I'm a Front-end Engineer at Conaz/Ambar.
 
 #### Side projects I'm working on
 
-[@Drinquepedia](https://github.com/betofigueiredo/Drinquepedia) - Things go better with a cocktail<br />
-[@Oaktabs](https://github.com/betofigueiredo/oaktabs) - Project to create online guitar tabs
+[@Jamister Tabs](https://github.com/Jamister/Tabs) - Project to create online guitar tabs<br />
+[@Drinquepedia](https://github.com/betofigueiredo/Drinquepedia) - Things go better with a cocktail
 
 #### Personal stuff
 
