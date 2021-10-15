@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a Front-end Engineer at Conaz/Ambar.
+I'm a Front-end Engineer at Mobiliza.
 
 #### Side projects I'm working on
 
