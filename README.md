@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a Front-end Engineer at Mobiliza.
+I'm a Full Stack Software Engineer.
 
 #### Side projects I'm working on
 
