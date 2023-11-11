@@ -2,16 +2,20 @@
 
 I'm a Full Stack Software Engineer.
 
-#### Side projects I'm working on
+### Current side projects I'm working on
 
-[@Jamister Tabs](https://github.com/Jamister/Tabs) - Project to create online guitar tabs<br />
-[@Drinquepedia](https://github.com/betofigueiredo/Drinquepedia) - Things go better with a cocktail
+[Sudoku Board](https://github.com/betofigueiredo/sudoku) - Sudoku board create with SvelteKit / Typescript / Tailwind.<br />
+[Drum Machine](https://github.com/betofigueiredo/drums-synthesizer) - Drum machine create with React / Typescript (work in progress, still in the beginning).<br />
 
-#### Personal stuff
+### Older projects
 
-I love sports (rock climbing 🧗 / surfing 🏄) and literature 📚.
+[Jamister Tabs](https://github.com/Jamister/Tabs) - Project to create online guitar tabs.<br />
 
-#### Find me elsewhere
+### Personal stuff
+
+I love sports (rock climbing 🧗 / BJJ 🥋 / surfing 🏄) and literature 📚.
+
+### Find me elsewhere
 
 📸 [Instagram](https://www.instagram.com/_betofigueiredo/)<br />
 💼 [LinkedIn](https://www.linkedin.com/in/betof/)<br />
