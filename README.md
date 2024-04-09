@@ -6,7 +6,7 @@ I'm a Software Engineer working with Javascript and Python.
 
 [Drinquepedia.com](https://github.com/betofigueiredo/Drinquepedia) - Rewritten with React / Typescript / FastAPI / MyPy. (done)<br />
 [Sudoku Board](https://github.com/betofigueiredo/sudoku) - Created with SvelteKit / Typescript / Tailwind. (done)<br />
-[Drum Machine](https://github.com/betofigueiredo/drums-synthesizer) - Created with React / Typescript / Flask. (work in progress)<br />
+[Drum Machine](https://github.com/betofigueiredo/drums-synthesizer) - Created with React / Typescript. (work in progress)<br />
 
 ### Older projects
 
