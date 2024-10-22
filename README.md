@@ -3,7 +3,7 @@
 I'm a Software Engineer working with Javascript and Python.
 
 ### Side projects
-
+[GO Integrator](https://github.com/betofigueiredo/go-integrator) - Created with Go / FastAPI.<br />
 [BJJ Instructional](https://github.com/betofigueiredo/BJJ-Instructional) - Created with Go / Bubble Tea.<br />
 [Drinquepedia.com](https://github.com/betofigueiredo/Drinquepedia) - Rewritten with React / Typescript / FastAPI / MyPy.<br />
 [Sudoku Board](https://github.com/betofigueiredo/sudoku) - Created with SvelteKit / Typescript / Tailwind.<br />
