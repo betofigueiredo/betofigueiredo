@@ -2,17 +2,21 @@
 
 I'm a Software Engineer working with Javascript and Python.
 
+### Blog
+
+- [Be careful about your dependencies](https://betofigueiredo.com/blog/be-careful-about-your-dependencies)<br />
+The tragedy of an old Node project and the trap of dependencies in JavaScript projects.<br />January 18, 2025<br />
+
+- [Best quality in a software developer](https://betofigueiredo.com/blog/best-quality-in-a-software-developer)<br />
+If you were hiring a developer today, what would be the primary quality you'd look for in that person?<br />January 3, 2025<br />
+
 ### Side projects
-[Diff Tracer](https://github.com/betofigueiredo/diff_tracer) - Created with Python / FastAPI / MyPy.<br />
-[GO Integrator](https://github.com/betofigueiredo/go-integrator) - Created with Go / Fiber / Python / FastAPI.<br />
-[Drinquepedia.com](https://github.com/betofigueiredo/Drinquepedia) - Rewritten with React / Typescript / FastAPI / MyPy.<br />
-[Sudoku Board](https://github.com/betofigueiredo/sudoku) - Created with SvelteKit / Typescript / Tailwind.<br />
+- [Diff Tracer](https://github.com/betofigueiredo/diff_tracer) - Created with Python / FastAPI / MyPy.<br />
+- [GO Integrator](https://github.com/betofigueiredo/go-integrator) - Created with Go / Fiber / Python / FastAPI.<br />
+- [Drinquepedia.com](https://github.com/betofigueiredo/Drinquepedia) - Rewritten with React / Typescript / FastAPI / MyPy.<br />
+- [Sudoku Board](https://github.com/betofigueiredo/sudoku) - Created with SvelteKit / Typescript / Tailwind.<br />
 
-### Older projects
-
-[Jamister Tabs](https://github.com/Jamister/Tabs) - Project to create online guitar tabs (Not working anymore).<br />
-
-### Personal stuff
+### Personal
 
 I love sports (rock climbing / BJJ / surfing) and literature.
 
