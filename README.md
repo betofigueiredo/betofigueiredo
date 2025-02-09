@@ -4,6 +4,9 @@ I'm a Software Engineer working with Javascript and Python.
 
 ### Blog
 
+- [The Biggest Problem with Scrum](https://betofigueiredo.com/blog/the-biggest-problem-with-scrum)<br />
+You can do everything right and still feel like you’ve lost.<br />February 9, 2025<br />
+
 - [Be careful about your dependencies](https://betofigueiredo.com/blog/be-careful-about-your-dependencies)<br />
 The tragedy of an old Node project and the trap of dependencies in JavaScript projects.<br />January 18, 2025<br />
 
