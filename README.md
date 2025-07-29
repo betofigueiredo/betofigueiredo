@@ -4,6 +4,9 @@ I'm a Software Engineer working with Javascript and Python.
 
 ### Blog
 
+- [The Meaning of Life](https://betofigueiredo.com/blog/the-meaning-of-life)<br />
+"He who has a why to live can bear almost any how." Friedrich Nietzsche — July 12, 2025<br />
+
 - [Reflections on Reading](https://betofigueiredo.com/blog/reflections-on-reading)<br />
 A reader lives a thousand lives before he dies. The man who never reads lives only one. — March 11, 2025<br />
 
