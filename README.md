@@ -19,11 +19,12 @@ The tragedy of an old Node project and the trap of dependencies in JavaScript pr
 - [The Biggest Problem with Scrum](https://betofigueiredo.com/blog/the-biggest-problem-with-scrum)<br />
 You can do everything right and still feel like you’ve lost. — February 9, 2025<br />
 
-### Side projects
-- [Diff Tracer](https://github.com/betofigueiredo/diff_tracer) - Created with Python / FastAPI / MyPy.<br />
-- [GO Integrator](https://github.com/betofigueiredo/go-integrator) - Created with Go / Fiber / Python / FastAPI.<br />
-- [Drinquepedia.com](https://github.com/betofigueiredo/Drinquepedia) - Rewritten with React / Typescript / FastAPI / MyPy.<br />
-- [Sudoku Board](https://github.com/betofigueiredo/sudoku) - Created with SvelteKit / Typescript / Tailwind.<br />
+### Side project
+- [Peek](https://github.com/betofigueiredo/peek) - A lightweight web tool for debugging HTTP requests.<br />
+- [Diff Tracer](https://github.com/betofigueiredo/diff_tracer) - A FastAPI utility designed to compare two API responses.<br />
+- [GO Integrator](https://github.com/betofigueiredo/go-integrator) - Example of integrating different applications for data exchange using Go and Python.<br />
+- [Sudoku Board](https://github.com/betofigueiredo/sudoku) - Sudoku board created with SvelteKit.<br />
+- [Drinquepedia.com](https://github.com/betofigueiredo/Drinquepedia) - Things go better with a cocktail!<br />
 
 ### Personal
 
