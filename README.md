@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm a Software Engineer working with Javascript and Python.
+I'm a Software Engineer working with Typescript, Go and Python.
 
 ### Blog
 
