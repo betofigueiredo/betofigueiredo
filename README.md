@@ -20,8 +20,8 @@ A reader lives a thousand lives before he dies. The man who never reads lives on
 The tragedy of an old Node project and the trap of dependencies in JavaScript projects. — January 18, 2025<br />
 
 ### Side project
+- [Homelibraries.org](https://github.com/betofigueiredo/homelibraries.org) - What if your bookshelf could talk back? Import your Goodreads history and ask your AI about it.<br />
 - [Peek](https://github.com/betofigueiredo/peek) - A lightweight web tool for debugging HTTP requests.<br />
-- [Diff Tracer](https://github.com/betofigueiredo/diff_tracer) - A FastAPI utility designed to compare two API responses.<br />
 - [GO Integrator](https://github.com/betofigueiredo/go-integrator) - Example of integrating different applications for data exchange using Go and Python.<br />
 - [Sudoku Board](https://github.com/betofigueiredo/sudoku) - Sudoku board created with SvelteKit.<br />
 - [Drinquepedia.com](https://github.com/betofigueiredo/Drinquepedia) - Things go better with a cocktail!<br />
