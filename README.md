@@ -1,8 +1,14 @@
-### Hi 👋
+### Things I've built
 
-I'm a Software Engineer working with Typescript, Go and Python.
+#### ➡️ Outterplan ([outterplan.com](https://outterplan.com))
+The memory of your home, all in one place. Documents, bills, insurance, vaccination records, car maintenance, and the home’s electrical layout.
 
-### Blog
+#### ➡️ HomeLibraries ([homelibraries.org](https://github.com/betofigueiredo/homelibraries.org))
+What if your bookshelf could talk back? Import your Goodreads history and ask your AI about it. Your library, ready for a conversation.
+
+<hr />
+
+### Writing
 
 - [Best Quality in a Software Developer](https://betofigueiredo.com/blog/best-quality-in-a-software-developer)<br />
 If you were hiring a developer today, what would be the primary quality you'd look for in that person? — January 3, 2025<br />
@@ -19,14 +25,17 @@ A reader lives a thousand lives before he dies. The man who never reads lives on
 - [Be Careful About Your Dependencies](https://betofigueiredo.com/blog/be-careful-about-your-dependencies)<br />
 The tragedy of an old Node project and the trap of dependencies in JavaScript projects. — January 18, 2025<br />
 
-### Side project
-- [Homelibraries.org](https://github.com/betofigueiredo/homelibraries.org) - What if your bookshelf could talk back? Import your Goodreads history and ask your AI about it.<br />
+<hr />
+
+### Other projects
 - [Peek](https://github.com/betofigueiredo/peek) - A lightweight web tool for debugging HTTP requests.<br />
 - [GO Integrator](https://github.com/betofigueiredo/go-integrator) - Example of integrating different applications for data exchange using Go and Python.<br />
 - [Sudoku Board](https://github.com/betofigueiredo/sudoku) - Sudoku board created with SvelteKit.<br />
 - [Drinquepedia.com](https://github.com/betofigueiredo/Drinquepedia) - Things go better with a cocktail!<br />
 
-### Personal
+<hr />
+
+### Beyond code
 
 I love sports (rock climbing / BJJ / surfing) and literature.
 
